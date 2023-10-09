@@ -1,4 +1,4 @@
-# ebean-issue
+# query-bean-generator-issue
 
 This project illustrate an issue with the ebean query bean generator. Issue as of `ebean` version `13.22.1` can be reproduced by running `mvn compile` on this example project.
 
