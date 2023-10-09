@@ -14,3 +14,5 @@ This is possibly just a naming issue when generating class name for the inner cl
     getCannonicalName():       "embedded.example.OrderItem.Key"
     getSimpleName():           "Key"
 ```
+
+Issue raised at https://github.com/ebean-orm/ebean/issues/3234
